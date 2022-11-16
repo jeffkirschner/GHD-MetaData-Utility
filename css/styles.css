@@ -1,0 +1,51 @@
+body {
+    /* background-color: #bcccc8; */
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tbody {
+    align-items: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .topimage {
+    background-color: blue;
+}
+
+.top-description {
+    background-color: #ace4b1;
+}
+
+.table-area {
+    background-color: #e1e6e2;
+} */
